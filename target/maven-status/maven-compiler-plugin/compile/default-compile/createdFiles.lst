@@ -1,0 +1,5 @@
+co/codingnomads/deployment/models/Hello.class
+co/codingnomads/deployment/SpringDeploymentDemoApplication.class
+co/codingnomads/deployment/controllers/HelloController.class
+co/codingnomads/deployment/repositories/HelloRepository.class
+co/codingnomads/deployment/services/HelloService.class
